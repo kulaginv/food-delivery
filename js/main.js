@@ -1,5 +1,7 @@
 'use strict';
 
+alert("Логин: латинскими буквами более 4 символов\n Пароль не нужен")
+
 const cartButton = document.querySelector("#cart-button");
 const modal = document.querySelector(".modal");
 const close = document.querySelector(".close");
