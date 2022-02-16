@@ -6,3 +6,5 @@ The appearance of a food delivery site. The project contains:
 - JavaScript file that is responsible for animation, interactive part and tracks user actions on the site.
 
 ### To get access to restaurants, you must enter a login of more than 4 characters (password is not required)
+The site is accessible from this link:
+https://kulaginv.github.io/food-delivery/
